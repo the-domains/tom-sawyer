@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photo works]]></title>
         <description><![CDATA[Photo works]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tom-sawyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:41:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 12:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom-sawyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Company: Custom</p>]]></description>
+            <link>https://thegrid.ai/tom-sawyer/company-custom/index.html</link>
+            <guid isPermaLink="false">8d596c3c-0622-4209-b946-3a09cd1902a7</guid>
+            <pubDate>Thu, 18 Aug 2016 12:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Company: Weta</p>]]></description>
-            <link>undefinedcompany-weta/index.html</link>
+            <link>https://thegrid.ai/tom-sawyer/company-weta/index.html</link>
             <guid isPermaLink="false">a151b66d-bcbb-41b9-b75b-b13c17c07cca</guid>
             <pubDate>Thu, 18 Aug 2016 12:36:56 GMT</pubDate>
         </item>
