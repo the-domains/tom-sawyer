@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Company: Custom'
-datePublished: '2016-08-18T12:58:01.620Z'
-dateModified: '2016-08-18T12:58:00.407Z'
+datePublished: '2016-08-18T13:15:33.418Z'
+dateModified: '2016-08-18T13:00:21.751Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-18-company-custom.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-18-company-custom.md
 url: company-custom/index.html
 _type: Article
 
