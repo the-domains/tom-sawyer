@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Company: Weta'
-datePublished: '2016-08-18T12:36:56.579Z'
-dateModified: '2016-08-18T12:35:50.411Z'
+datePublished: '2016-08-18T13:20:41.192Z'
+dateModified: '2016-08-18T13:00:04.487Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-18-company-weta.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-18-company-weta.md
+starred: true
 url: company-weta/index.html
 _type: Article
 
