@@ -1,0 +1,28 @@
+name: tom-sawyer
+favicon: null
+layout_spectrum: 0.6257191216573119
+typography_spectrum: 0.898430711356923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7251517539843917
+  lightness: 0.5832569089252502
+  saturation: 0.2322116452269256
+  rhythmicContrast: 0.8752503704745322
+purpose: []
